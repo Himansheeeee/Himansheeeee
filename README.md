@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Himansheeeee
-- 👀 I’m interested in Data Analytics and Business Related Work
+- 👀 I’m interested in Data Analytics and Business Intelligence/Analytics Related Work/Job
 - 🌱 I’m currently learning Data Science with Analytics and Business Intelligence as core branch
 - 💞️ I’m looking to collaborate on Data Analytics and Business Intelligence Projects
 - 📫 How to reach me :
 LinkedIn: https://www.linkedin.com/in/himanshi-saini-3a839027a/
-Gmail: himanshisaini7802@gmail.com
+ || Gmail: himanshisaini7802@gmail.com
 - 😄 Pronouns: she/her
 - Skills: Power BI, MySQL, Python, Tableau, Advanced Excel, SQL, Inferential Statistics, Hypothesis Testing, AWS, Machine Learning(Intermediate), etc.
 - About: I am a dedicated Data Aspirant focused on transforming complex datasets into actionable insights.
