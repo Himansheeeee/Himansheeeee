@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Himansheeeee
+- 👋 Hi, I’m @Himanshi Saini
 - 👀 I’m interested in Data Analytics and Business Intelligence/Analytics Related Job Roles
 - 🌱 I have Completed my Executive Post Graduate Diploma in Data Science with Analytics and Business Intelligence as core branch from IIIT- Bangalore in Sep-2024
 - 💞️ I’m looking to collaborate on Full/Part time Data Analyst/Business Analyst Job /Internship roles
