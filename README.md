@@ -6,7 +6,7 @@
 LinkedIn: https://www.linkedin.com/in/himanshi-saini-3a839027a/
  || Gmail: himanshisaini7802@gmail.com
 - 😄 Pronouns: she/her
-- I have done 2 virtual internships in companies like Tata, PwC and one Remote Intership in Unified Mentor as Data Analyst Intern
+- I have worked as Data Research and Analyst Intern at Trovato Communications Pvt. Ltd. and done 2 virtual internships in companies like Tata, PwC and one Remote Intership in Unified Mentor as Data Analyst Intern
 - Skills: Power BI, MySQL, Python, Tableau, Advanced Excel, SQL, Inferential Statistics, Hypothesis Testing, AWS, Machine Learning(Intermediate), etc.
 - About: I am a dedicated Data Aspirant focused on transforming complex datasets into actionable insights.
   With expertise in data visualization, statistical analysis, and database management, I excel at identifying key trends and opportunities for performance improvement.
