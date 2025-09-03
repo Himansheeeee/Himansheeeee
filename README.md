@@ -6,12 +6,11 @@
 LinkedIn: https://www.linkedin.com/in/himanshi-saini-3a839027a/
  || Gmail: himanshisaini7802@gmail.com
 - 😄 Pronouns: she/her
-- I have worked as Data Research and Analyst Intern at Trovato Communications Pvt. Ltd. and done 2 virtual internships in companies like Tata, PwC and one Remote Intership in Unified Mentor as Data Analyst Intern
+- I have worked as Data Analyst at Alvio Labs (Remote, Ireland) and Data Research Analyst Intern at SQillX (Delhi, India).
 - Skills: Power BI, MySQL, Python, Tableau, Advanced Excel, SQL, Inferential Statistics, Hypothesis Testing, AWS, Machine Learning(Intermediate), etc.
-- About: I am a dedicated Data Aspirant focused on transforming complex datasets into actionable insights.
-  With expertise in data visualization, statistical analysis, and database management, I excel at identifying key trends and opportunities for performance improvement.
-  Proficient in SQL, Python, Excel, and Power BI, I leverage these tools for effective data manipulation and analysis. Committed to continuous learning, I aim to make data a vital asset
-  for business growth by delivering clear, data-driven insights to support decision-making.
+- About: As a prospective data analyst, I take pleasure in transforming intricate statistics into understandable, useful insights that companies may utilize. I specialize in creating dashboards, models, and reports that address the "why" behind trends and assist teams in making better decisions. I am proficient in SQL, Python, Power BI, and Excel. With a background in performance analysis, data storytelling, and predictive modeling, I have a keen interest in applying data to actual business issues. I strive to be accurate and creative in any analysis I work on because I'm a lifelong learner and curious person.
+
+
 
 <!---
 Himansheeeee/Himansheeeee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
